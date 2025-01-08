@@ -1,2 +1,2 @@
-#Brian NOTE
+# Brian Note
 Regarding learning
