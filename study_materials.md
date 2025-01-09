@@ -19,3 +19,6 @@ https://zhuanlan.zhihu.com/p/325958170
 
 漫步结构搜索
 https://bohrium.dp.tech/notebooks/2412544699
+
+分子动力学入门
+https://zhuanlan.zhihu.com/p/180123374
