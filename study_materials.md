@@ -16,3 +16,6 @@ https://zhuanlan.zhihu.com/p/301082606
 
 结构及衍射之平面群及空间群
 https://zhuanlan.zhihu.com/p/325958170
+
+漫步结构搜索
+https://bohrium.dp.tech/notebooks/2412544699
